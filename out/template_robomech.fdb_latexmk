@@ -1,11 +1,11 @@
 # Fdb version 3
-["dvipdf"] 1738240659 "out/template_robomech.dvi" "out/template_robomech.pdf" "out/template_robomech" 1738240659
-  "out/template_robomech.dvi" 1738240659 9436 bc9bb025e0af4dc56a6057a599d87fa1 "latex"
+["dvipdf"] 1738243043 "out/template_robomech.dvi" "out/template_robomech.pdf" "out/template_robomech" 1738243044
+  "out/template_robomech.dvi" 1738243043 9076 58061e9561094c1b12d14221b9d1ab89 "latex"
   (generated)
   "out/template_robomech.pdf"
-["latex"] 1738240658 "/home/takumiishiguro/robomech2025/template_robomech.tex" "out/template_robomech.dvi" "template_robomech" 1738240659
+["latex"] 1738243043 "/home/takumiishiguro/robomech2025/template_robomech.tex" "out/template_robomech.dvi" "template_robomech" 1738243044
   "/etc/texmf/web2c/texmf.cnf" 1733887439 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/takumiishiguro/robomech2025/template_robomech.tex" 1738240533 6156 32361f330f01f343dff84f0f565df6d4 ""
+  "/home/takumiishiguro/robomech2025/template_robomech.tex" 1738243043 5940 678ba23c8f0070f7a639804ea5ac75ba ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -49,10 +49,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/web2c/eptex/platex.fmt" 1733887704 10600119 6158756c1aee0e2e20d61ac9b4f39d6f ""
   "fig1.eps" 1738240533 21067 1933fd467f23b98ef1895feedfe4f97d ""
-  "out/template_robomech.aux" 1738240659 843 64d29996fca15a532283f48d1831dca0 "latex"
+  "out/template_robomech.aux" 1738243043 843 64d29996fca15a532283f48d1831dca0 "latex"
   "robomech.sty" 1738240533 10293 8982dbc33bdad8ecf621cef65d449943 ""
-  "template_robomech.tex" 1738240533 6156 32361f330f01f343dff84f0f565df6d4 ""
+  "template_robomech.tex" 1738243043 5940 678ba23c8f0070f7a639804ea5ac75ba ""
   (generated)
   "out/template_robomech.dvi"
-  "out/template_robomech.log"
   "out/template_robomech.aux"
+  "out/template_robomech.log"
